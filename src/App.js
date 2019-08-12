@@ -3,7 +3,7 @@ import { BrowserRouter } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import 'semantic-ui-css/semantic.min.css';
 import ConfigureStore from './redux/configureStore';
-import Main from './components/Main';
+import Main from './pages/Main';
 
 import './App.css';
 
